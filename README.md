@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/color-change-project.git
+    git clone https://github.com/sumit-dakua/react-background-changer.git
     cd color-change-project
     ```
 
@@ -37,24 +37,6 @@ To get started with the project, follow these steps:
 
 Once the development server is running, you can open the application in your browser. You will see a set of buttons with different colors. Clicking on a button will change the background color of the screen to the color of the button. There is also a reset button to revert the background color to the initial state.
 
-## Project Structure
-
-The project has the following structure:
-.
-├── public
-│ └── index.html
-├── src
-│ ├── components
-│ │ └── ColorButton.jsx
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-├── .gitignore
-├── package.json
-├── postcss.config.js
-├── tailwind.config.js
-├── README.md
-└── vite.config.js
 ### `App.jsx`
 
 The main component that manages the state for the background color and renders the `ColorButton` components.
