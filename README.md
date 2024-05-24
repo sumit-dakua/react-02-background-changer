@@ -3,13 +3,7 @@
 
 This is a basic color change project created for learning purposes using Vite, React, and Tailwind CSS. The application allows users to change the background color of the screen by clicking on different colored buttons.
 
-## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
