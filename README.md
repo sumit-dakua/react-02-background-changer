@@ -106,9 +106,6 @@ function ColorButton({ colorName, color, setColor }) {
 
 export default ColorButton;
 ```
-
-
-
 # React + Vite
 
 
